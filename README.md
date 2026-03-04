@@ -12,8 +12,8 @@ Saat tombol di tekan:
 ### Preview App
 
 <p align="center">
-  <img src="" width="300"/>
-  <img src="" width="300"/>
+  <img src="https://github.com/user-attachments/assets/0ad2a69f-449f-4633-9657-21c28135cda1" width="300"/>
+  <img src="https://github.com/user-attachments/assets/17497b0b-0dc8-4a08-9f09-f4ddf635b22e" width="300"/>
 </p>
 
 ### Clean Architecture
