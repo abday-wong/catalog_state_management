@@ -1,5 +1,10 @@
 import 'package:flutter/material.dart';
 
-Widget buildApp(){
-  
+class AddButtonWidget extends StatelessWidget {
+  const AddButtonWidget({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return const Placeholder();
+  }
 }
